@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="newimg">
+    <file>icons/image/background.jpg</file>
+    <file>icons/image/naver.jpg</file>
+    <file>icons/24x24/cil-chevron-circle-right-alt.png</file>
+    <file>icons/image/myeongdong.jpg</file>
+    <file>icons/image/juhwan.jpg</file>
+    <file>icons/image/myeongun.jpg</file>
+    <file>icons/image/dongchan.jpg</file>
+  </qresource>
+</RCC>
